@@ -1,4 +1,4 @@
-# webpack-example-1
+# webpack-ejs
 
 ## Installation
 
